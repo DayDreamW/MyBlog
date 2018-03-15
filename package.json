@@ -1,0 +1,8 @@
+{
+	"name": "myblog",
+	"author": "DayDramW",
+	"private": true,
+	"dependencies": {
+		"express": "^4.16.3"
+	}
+}
